@@ -1,0 +1,14 @@
+name: pirate_king_adventure
+description: Pirate King Adventure - لعبة مغامرات ثلاثية الأبعاد تعمل بدون إنترنت
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
